@@ -2,7 +2,7 @@ import geometry
 import math
 
 from collections import deque
-from ExecutionControl import ExecutionControl
+from executioncontrol import ExecutionControl
 
 
 class GCodeParser(object):

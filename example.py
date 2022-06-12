@@ -1,4 +1,4 @@
-from gcode_parser import GCodeParser, Machine3D
+from gcodeparser import GCodeParser, Machine3D
 
 def print_machining_times(file_name):
     #set machine parameters and create machine
