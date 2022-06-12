@@ -1,0 +1,5 @@
+#GCODE Files
+*.txt
+
+#Python Byte Code Files
+*.pyc
